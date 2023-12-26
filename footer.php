@@ -12,6 +12,7 @@
             <div class="site-footer__col-two">
               <h3 class="headline headline--small">Explore</h3>
               <nav class="nav-list">
+            
                 <ul>
                   <li><a href="#">About Us</a></li>
                   <li><a href="#">Programs</a></li>
