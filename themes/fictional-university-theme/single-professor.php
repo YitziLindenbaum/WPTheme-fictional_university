@@ -1,5 +1,4 @@
 <?php get_header();
-include_once 'functions.php';
 
 while (have_posts()) {
     the_post(); 
